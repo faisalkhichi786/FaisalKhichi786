@@ -4,10 +4,10 @@
 
 # Hi, I'm Muhammad Faisal 👋
 
-### [Your Professional Title] • [Your Specialization] • [Your Interest]
+### Python Developer • Data Analytics Enthusiast • Technology Learner
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+To+My+GitHub+Profile;Building+Projects+And+Learning+Every+Day;Exploring+Modern+Technologies;Turning+Ideas+Into+Practical+Solutions;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+To+My+GitHub+Profile;Building+Practical+Projects;Learning+Python+And+Modern+Technologies;Turning+Ideas+Into+Practical+Solutions;Always+Learning+Something+New" />
 </p>
 
 </div>
@@ -16,11 +16,11 @@
 
 # 👨‍💻 About Me
 
-I am an aspiring **[Your Profession / Role]** passionate about learning technology and building practical projects.
+I am an aspiring **Python Developer** and technology enthusiast passionate about learning, building projects, and developing practical solutions.
 
-I enjoy working on **[your areas — e.g. Python, Data Analytics, Web Development, AI, etc.]** and exploring new technologies that help solve real-world problems.
+I enjoy working with programming, data, and modern technologies while continuously improving my technical and problem-solving skills.
 
-My current focus is on improving my technical skills, building meaningful projects, and continuously expanding my knowledge.
+My current focus is on building real-world projects, gaining practical development experience, and learning new technologies through hands-on work.
 
 ---
 
@@ -34,11 +34,13 @@ My current focus is on improving my technical skills, building meaningful projec
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/[TECHNOLOGY]-[COLOR]?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/[TECHNOLOGY]-[COLOR]?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/[TECHNOLOGY]-[COLOR]?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </p>
 
@@ -46,33 +48,59 @@ My current focus is on improving my technical skills, building meaningful projec
 
 # 🚀 Current Focus
 
-* 🚀 Building practical projects
-* 🐍 Improving my programming skills
-* 📊 Learning data and technology tools
-* 🌱 Exploring new technologies
-* 💡 Turning ideas into useful solutions
+* 🐍 Improving Python programming skills
+* 💻 Building practical projects
+* 📊 Exploring Data Analytics
+* 📚 Learning new technologies
+* 🔧 Improving Git & GitHub skills
 * 🤖 Exploring AI and automation
+* 🚀 Gaining practical experience through internships
 
 ---
 
-# 🚀 Featured Project
+# 💼 Internship Experience
 
-## 📌 [Your Main Project Name]
+## 🚀 CodeAlpha — Internship
 
-[Write 1–2 sentences explaining what your project does and why you built it.]
+Currently continuing my **CodeAlpha internship**, where I am gaining practical experience by working on development projects and applying my technical knowledge to real-world tasks.
 
-### Highlights
+Through this internship, I am focusing on:
 
-* 📂 [Feature 1]
-* 📊 [Feature 2]
-* 🧠 [Feature 3]
-* ⚙️ [Feature 4]
-* 📈 [Feature 5]
-* 🤖 [Feature 6]
-* 📤 [Feature 7]
+* 🐍 Python programming
+* 💻 Practical software development
+* 🧠 Problem solving
+* 🔧 Git & GitHub
+* 📚 Learning through hands-on tasks
+* 🚀 Building real-world projects
+* 🌱 Improving professional development skills
 
-🔗 **Repository:**
-https://github.com/faisalkhichi786/[your-repository]
+*More internship projects and achievements will be added soon...*
+
+---
+
+# 📂 Featured Repositories
+
+## 🏥 Hospital Emergency Room Dashboard
+
+Interactive Excel Dashboard focused on analyzing hospital emergency room data and presenting meaningful insights through data visualization.
+
+🔗 **Repository:** [Add your repository link here]
+
+---
+
+## 📱 Mobile Sales Dashboard
+
+Interactive Power BI Dashboard designed to analyze mobile sales data and present key business insights through visual reporting.
+
+🔗 **Repository:** [Add your repository link here]
+
+---
+
+## 📈 Excel Sales Dashboard
+
+Business dashboard created using Microsoft Excel to analyze sales data and present important trends and performance insights.
+
+🔗 **Repository:** [Add your repository link here]
 
 ---
 
@@ -80,20 +108,20 @@ https://github.com/faisalkhichi786/[your-repository]
 
 ### 🐍 Programming
 
-* [Python]
-* [Other Programming Language]
+* Python
 
-### 📊 Data / Development
+### 📊 Data & Analytics
 
-* [Technology]
-* [Technology]
-* [Technology]
+* Microsoft Excel
+* Power BI
+* Pandas
+* NumPy
 
-### 📈 Tools & Technologies
+### 📈 Data Visualization
 
-* [Tool]
-* [Tool]
-* [Tool]
+* Matplotlib
+* Dashboard Design
+* Business Reporting
 
 ### 🛠 Development Tools
 
@@ -105,11 +133,13 @@ https://github.com/faisalkhichi786/[your-repository]
 
 # 🌱 Currently Learning
 
-* Advanced [Technology]
-* [Technology]
-* [Technology]
+* Advanced Python
+* Data Analytics
+* SQL
+* Power BI
+* Machine Learning Fundamentals
+* Artificial Intelligence
 * Software Development Best Practices
-* Building Real-World Projects
 
 ---
 
@@ -117,55 +147,19 @@ https://github.com/faisalkhichi786/[your-repository]
 
 My goal is to continuously improve my technical skills and build innovative solutions that solve real-world problems.
 
-I am interested in opportunities where I can contribute, learn from experienced professionals, work on meaningful projects, and continue growing as a developer.
-
----
-
-# 📂 Featured Repositories
-
-## 🚀 [Project 1]
-
-[Short description of your project.]
-
-🔗 https://github.com/faisalkhichi786/[repository-name]
-
----
-
-## 📊 [Project 2]
-
-[Short description of your project.]
-
-🔗 https://github.com/faisalkhichi786/[repository-name]
-
----
-
-## 💻 [Project 3]
-
-[Short description of your project.]
-
-🔗 https://github.com/faisalkhichi786/[repository-name]
-
----
-
-## 📈 [Project 4]
-
-[Short description of your project.]
-
-🔗 https://github.com/faisalkhichi786/[repository-name]
-
----
-
-*More exciting projects are coming soon...*
+I am interested in opportunities where I can contribute to meaningful projects, gain professional experience, learn from experienced developers, and continue growing as a technology professional.
 
 ---
 
 # 🏆 Highlights
 
-* 🚀 Building practical software projects
-* 💻 Continuously improving technical skills
-* 📚 Learning new technologies
-* 🔧 Working on real-world projects
-* 🌱 Always learning and building
+* 🚀 Currently continuing my CodeAlpha internship
+* 🐍 Python programming and development
+* 📊 Data Analytics and visualization
+* 📈 Dashboard development
+* 💻 Building practical projects
+* 🔧 Git & GitHub
+* 🌱 Continuously learning and improving
 
 ---
 
@@ -177,7 +171,7 @@ I am interested in opportunities where I can contribute, learn from experienced 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="[YOUR_LINKEDIN_URL]">
+<a href="https://www.linkedin.com/in/muhammad-faisal-jahangeer-4b38393a8?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
