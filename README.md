@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="2064" height="512" alt="Banner" src="https://github.com/user-attachments/assets/5ac73085-45e7-4584-a0e3-2e50e725679e" />
+<img src="Faisal%20Banner.png" alt="Muhammad Faisal - Data Analyst & Python Developer" width="100%" />
+
+</div>
 
 # Hi, I'm Muhammad Faisal 👋
 
