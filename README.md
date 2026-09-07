@@ -174,7 +174,7 @@ Through this internship, I am focusing on:
 
 Interactive **Excel Dashboard** focused on hospital emergency room data, helping analyze information and present meaningful insights through data visualization.
 
-🔗 **Repository:** [Add your repository link here]
+🔗 **Repository:** https://github.com/faisalkhichi786/Hospital-Emergency-Room-Dashboard-Excel-
 
 ---
 
@@ -182,7 +182,7 @@ Interactive **Excel Dashboard** focused on hospital emergency room data, helping
 
 Interactive **Power BI Dashboard** designed to analyze mobile sales data and present important business insights through visual reporting.
 
-🔗 **Repository:** [Add your repository link here]
+🔗 **Repository:** https://github.com/faisalkhichi786/Powerbi-Mobile-sales-Dashboard
 
 ---
 
@@ -190,7 +190,7 @@ Interactive **Power BI Dashboard** designed to analyze mobile sales data and pre
 
 Business dashboard created using **Microsoft Excel** to analyze sales data, identify trends, and present performance insights.
 
-🔗 **Repository:** [Add your repository link here]
+🔗 **Repository:** https://github.com/faisalkhichi786/Excel-Sales-Dashboard-Project
 
 ---
 
